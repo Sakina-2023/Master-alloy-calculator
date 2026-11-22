@@ -1,0 +1,12 @@
+ALLOY MELTING CHARGE REPORT
+=============================================
+Base Metal: al
+Purity: 99.99%
+Final Melt Weight: 1.0 kg
+
+cu | al-50%cu | 0.1000 kg
+mg | al-10mg | 0.2000 kg
+si | al-20s | 0.0500 kg
+
+Base Metal Required: 0.6500 kg
+Total Charge: 1.0000 kg
